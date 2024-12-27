@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    margin-bottom: 10px;
+}
+.slider-container{
+    width: 1300px;
+    max-width: 100vw;
+    height: 650px;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+}
+.slides img{    
+    width: 100vw;    
+    height: 100vw;
+    object-fit: cover;
+}
+.slides{
+    display: flex;
+    position: relative;
+}
+h1{
+    margin: 0;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.buttons button {
+    width: 50px;
+    height: 50px;
+    background-color: grey;
+    color: white;
+    border: none;
+    font-family: monospace;
+    font-weight: bold;
+    cursor: pointer;
+}
+.buttons{
+    justify-content: space-between;
+    position: absolute;
+    top: 60%;
+    width: 100%;
+    display: flex;
+    transform: translateY(-100%);
+}
