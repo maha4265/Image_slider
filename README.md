@@ -11,8 +11,10 @@ Open the index.html file in your browser.
 Click the < or > buttons to switch between images.
 Feel free to replace the image URLs with your own and customize the slider to fit your needs!
 
-![Uploading image.png…]()
-![Uploading image.png…]()
+![screenshot1](https://github.com/user-attachments/assets/06f2a833-9420-4e9c-b0db-c8cd5cba34c7)
+![screeshot2](https://github.com/user-attachments/assets/475c38e3-41d9-43a4-a69c-856f4918e4b1)
+
+
 
 
 
